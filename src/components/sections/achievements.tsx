@@ -20,12 +20,9 @@ const achievements = [
   {
     title: "Outstanding Activities Award (2025)",
     description:
-      "Awarded by KMUTT for bringing prestige to the university through technical excellence.",
+      "Recognized by KMUTT for exceptional contributions and bringing prestige to the University and the Faculty of Engineering through distinguished student activities.",
     icon: Award,
-    images: [
-      "https://admission.kmutt.ac.th/stocks/discover_banner/c690x390/oa/ej/fr2xoaej6t/kmutt.png",
-      "/achievement/OutstandingActivitiesAward.png",
-    ],
+    images: ["/achievement/OutstandingActivitiesAward.png"],
   },
   {
     title: "Pass Final round of START YOUNG, STAY STRONG Hackathon (2025)",
