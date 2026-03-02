@@ -18,12 +18,13 @@ const achievements = [
     ],
   },
   {
-    title: "Outstanding Activities Award (2024)",
+    title: "Outstanding Activities Award (2025)",
     description:
       "Awarded by KMUTT for bringing prestige to the university through technical excellence.",
     icon: Award,
     images: [
       "https://admission.kmutt.ac.th/stocks/discover_banner/c690x390/oa/ej/fr2xoaej6t/kmutt.png",
+      "/achievement/OutstandingActivitiesAward.png",
     ],
   },
   {
